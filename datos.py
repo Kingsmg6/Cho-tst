@@ -5,9 +5,9 @@ from datetime import datetime
 import time
 from datetime import datetime
 
-omwer = 5416957433
-admin = 5416957433
-idchat = [-1001882398908, -1001749398513, -1001698867343, -1001844059236, -1001640249431, -1001787426503, -1001576963422]
+omwer = 5691886387
+admin = 5691886387
+idchat = [-1002074485515, ]
 
 CMD = ["/", "."]
 spam_times = {}
